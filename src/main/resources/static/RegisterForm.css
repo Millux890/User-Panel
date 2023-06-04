@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+.form {
+    display: inline-block;
+    float: left;
+    margin-top: 5vh;
+    text-align: center;
+    zoom: 130%;
+    width: 40vw;
+
+}
+
+.myImg {
+    display: inline-block;
+    float: right;
+    margin-top: 5vh;
+    text-align: center;
+    width: 40vw;
+    height: 40vw;
+    padding-top: 5vw;
+}
+
+.titleText {
+    font-size: 40px;
+    text-align: center;
+}
+
+.submitButton {
+    font-size: 15px;
+    padding: 10px;
+    background-color: darkseagreen;
+}
