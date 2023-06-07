@@ -1,6 +1,6 @@
 # User Panel
 
-> User Panel where you can register user and logging in.
+> User Panel where you can register userData and logging in.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@
 
 ## General Information
 
-In this project we register a user. We can log in anytime to our account.
+In this project we register a userData. We can log in anytime to our account.
 Purpose of this project is to connect SpringBoot Application with database, using simple frontend
 and thymeLeaf.
 
@@ -34,7 +34,7 @@ and thymeLeaf.
 
 ## Features
 
-- Register user on page then store information in database
+- Register userData on page then store information in database
 - Logging on page using stored information from database
 
 ## Screenshots

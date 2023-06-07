@@ -1,7 +1,9 @@
 package com.example.userPanel.repository;
 
-import com.example.userPanel.model.User;
+import com.example.userPanel.model.UserData;
 import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Component;
 
-public interface UserRepository extends JpaRepository<User, Integer> {
+@Component
+public interface UserRepository extends JpaRepository<UserData, Integer> {
 }
